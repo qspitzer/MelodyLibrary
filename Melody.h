@@ -27,5 +27,9 @@ class Melody {
         static int _buzzer1;
         static int _buzzer2;
         static int _buzzer3;
+        static int _b1Port;
+        static int _b2Port;
+        static int _b3Port;
+        
 };
 #endif
