@@ -1,5 +1,5 @@
 # MelodyLibrary
-Arduino library to play notes on a buzzer.
+(Nonfunctional) Arduino library to play notes on a buzzer.
 
 **Currently only tested on Arduino Uno**
 
